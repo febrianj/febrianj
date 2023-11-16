@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T11:26:01.487Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="5-d6i4rSQpSLtdTzsrzw" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-16T01:15:52.410Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="PWBgojPmWloEmmRzuxBH" version="22.1.0" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Proses KMK">
-    <mxGraphModel dx="1418" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1135" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -786,10 +786,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Lf82y6h0gUUzLqwLpCzH-1" value="User: Aktivasi KMK" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
+        <mxCell id="Lf82y6h0gUUzLqwLpCzH-1" value="User: Aktivasi KMK" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#82b366;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="180" y="140" width="18" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lf82y6h0gUUzLqwLpCzH-5" value="User: Input Data Perusahaan" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+        <mxCell id="Lf82y6h0gUUzLqwLpCzH-5" value="User: Input Data Perusahaan" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="370" y="125" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lf82y6h0gUUzLqwLpCzH-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -798,11 +798,11 @@
             <mxPoint x="330" y="154.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lf82y6h0gUUzLqwLpCzH-8" value="User: Submit Doc" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked_doc;" vertex="1" parent="1">
-          <mxGeometry x="620" y="130" width="50.8" height="61.6" as="geometry" />
+        <mxCell id="Lf82y6h0gUUzLqwLpCzH-8" value="User: Submit Doc" style="shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#00FF00;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked_doc;" vertex="1" parent="1">
+          <mxGeometry x="624.5" y="123.4" width="50.8" height="61.6" as="geometry" />
         </mxCell>
         <mxCell id="Lf82y6h0gUUzLqwLpCzH-9" value="Core: Simpan Data" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="620.8" y="260" width="50" height="48" as="geometry" />
+          <mxGeometry x="625.3" y="270" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Lf82y6h0gUUzLqwLpCzH-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -812,38 +812,38 @@
         </mxCell>
         <mxCell id="Lf82y6h0gUUzLqwLpCzH-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650.3" y="212" as="sourcePoint" />
-            <mxPoint x="650" y="252" as="targetPoint" />
+            <mxPoint x="650.0999999999999" y="220" as="sourcePoint" />
+            <mxPoint x="649.8" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q2sQ3y0OkWjJgGKvxP-m-1" value="Core: Return biaya Appraisal" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="395" y="252" width="50" height="48" as="geometry" />
+          <mxGeometry x="395.2" y="270" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="q2sQ3y0OkWjJgGKvxP-m-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="283.5" as="sourcePoint" />
-            <mxPoint x="500" y="283.5" as="targetPoint" />
+            <mxPoint x="570" y="300" as="sourcePoint" />
+            <mxPoint x="500" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q2sQ3y0OkWjJgGKvxP-m-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="275.5" as="sourcePoint" />
-            <mxPoint x="260" y="275.5" as="targetPoint" />
+            <mxPoint x="330" y="300" as="sourcePoint" />
+            <mxPoint x="260" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2sQ3y0OkWjJgGKvxP-m-8" value="User: melakukan Pembayaran" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/cash-money-coin-value-128.png;imageBackground=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="160" y="242" width="58" height="58" as="geometry" />
+        <mxCell id="q2sQ3y0OkWjJgGKvxP-m-8" value="User: Pembayaran Appraisal" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/cash-money-coin-value-128.png;imageBackground=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="156" y="260" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="DcfqevQ7FhGaly8kKqTw-3" value="Int Analyst:&lt;br&gt;&amp;nbsp;Pengecekan Dokumen" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.check" vertex="1" parent="1">
           <mxGeometry x="164" y="390" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DcfqevQ7FhGaly8kKqTw-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="188.29999999999995" y="340" as="sourcePoint" />
-            <mxPoint x="188" y="380" as="targetPoint" />
+            <mxPoint x="184.79999999999995" y="350" as="sourcePoint" />
+            <mxPoint x="184.5" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FEe0PEOKQ8aVlpqZeLEH-1" value="Int Admin: Request Appraisal Vendor" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workdocs;fillColor=#D16A28;gradientColor=#F58435;gradientDirection=north;" vertex="1" parent="1">
+        <mxCell id="FEe0PEOKQ8aVlpqZeLEH-1" value="&lt;font color=&quot;#000000&quot;&gt;Int Admin: &lt;br&gt;Request Appraisal Vendor&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workdocs;fillColor=#2875E2;gradientDirection=north;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="395" y="390" width="50.2" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="FEe0PEOKQ8aVlpqZeLEH-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -858,17 +858,110 @@
             <mxPoint x="580" y="409.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FEe0PEOKQ8aVlpqZeLEH-6" value="Int Analyst:&lt;br&gt;Penentuan Plafond &amp;amp; &lt;br&gt;approval KMK" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#00FF00;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.approver;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="FEe0PEOKQ8aVlpqZeLEH-6" value="Int Analyst:&lt;br&gt;Penentuan Plafond &amp;amp; &lt;br&gt;approval KMK" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#2875E2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.approver;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="616.3" y="382.5" width="59" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LUhPVpvY_0gqTyXC3KTQ-1" value="Int: Escrow Account Topup" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#FFFFFF;fillColor=#2875E2;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bank;" vertex="1" parent="1">
+          <mxGeometry x="158.99999999999994" y="547.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUhPVpvY_0gqTyXC3KTQ-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645.0999999999999" y="500" as="sourcePoint" />
+            <mxPoint x="644.8" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUhPVpvY_0gqTyXC3KTQ-5" value="User: Pembayaran Asuransi" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/cash-money-coin-value-128.png;imageBackground=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="391.19999999999993" y="550" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="LUhPVpvY_0gqTyXC3KTQ-6" value="&lt;font color=&quot;#000000&quot;&gt;Int Admin: &lt;br&gt;Request Asuransi Agunan&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workdocs;fillColor=#2875E2;gradientDirection=north;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="620.7" y="550" width="50.2" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LUhPVpvY_0gqTyXC3KTQ-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="577" as="sourcePoint" />
+            <mxPoint x="510" y="577" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUhPVpvY_0gqTyXC3KTQ-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="578.25" as="sourcePoint" />
+            <mxPoint x="260" y="578.25" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="FWsbAeIf38Cux5-srpk-" name="Page-3">
-    <mxGraphModel dx="851" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="FWsbAeIf38Cux5-srpk-" name="Pencairan Kredit">
+    <mxGraphModel dx="810" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0fQZlQV1JmAZEAYF8RgW-1" value="User: Pencairan KMK" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#82b366;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="18" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ltFAYBb-yl0PeFpkvNsp-1" value="User: Input amount pencairan&lt;br&gt;dan durasi" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="125" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a6mnKfEKI8QuM_K2rhmY-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="154.5" as="sourcePoint" />
+            <mxPoint x="330" y="154.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24Bbf5ZMRaGLg-NiN_Dg-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="155.3" as="sourcePoint" />
+            <mxPoint x="580" y="155.3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWGmrek8VEHAN-MQMUcg-1" value="User: Request Pencairan" style="shadow=0;dashed=0;html=1;strokeColor=#82b366;fillColor=#00FF00;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.checked_doc;" vertex="1" parent="1">
+          <mxGeometry x="624.5" y="123.4" width="50.8" height="61.6" as="geometry" />
+        </mxCell>
+        <mxCell id="_fsIimgC7Iud7dHEr7XD-1" value="Paylater: &lt;br&gt;Simpan data pencairan" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="625.3" y="270" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="_fsIimgC7Iud7dHEr7XD-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650.0999999999999" y="220" as="sourcePoint" />
+            <mxPoint x="649.8" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_fsIimgC7Iud7dHEr7XD-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="300" as="sourcePoint" />
+            <mxPoint x="500" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_fsIimgC7Iud7dHEr7XD-4" value="Paylater:&lt;br&gt;Queue &lt;br&gt;Pencairan&amp;nbsp;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#2875E2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="254" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fiaIwTWpPsYx7J52hTF2-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="300" as="sourcePoint" />
+            <mxPoint x="260" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zp6W1lNHesTQsVMapBJY-1" value="Int: &lt;br&gt;Cek saldo escrow" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#FFFFFF;fillColor=#2875E2;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bank;" vertex="1" parent="1">
+          <mxGeometry x="158.99999999999994" y="264" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uNn-MUqyyCSO_KGvR5aX-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="188.81999999999996" y="370" as="sourcePoint" />
+            <mxPoint x="188.52" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AYPdbD95wBtD_I3SY07a-1" value="Int:&lt;br&gt;Pencairan dana kredit" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/cash-money-coin-value-128.png;imageBackground=#2875E2;" vertex="1" parent="1">
+          <mxGeometry x="159.99999999999994" y="420" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="IR8-GovFWZfH7s9pR4_0-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="448.52" as="sourcePoint" />
+            <mxPoint x="330" y="448.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IR8-GovFWZfH7s9pR4_0-3" value="Paylater: &lt;br&gt;Update status dan Plafond" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="389.99999999999994" y="425" width="50" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
